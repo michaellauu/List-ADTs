@@ -1,0 +1,12 @@
+// Michael Lau
+// mlau10
+// CMPS 101 - PA5
+
+List.c - Linked List ADT with a cursor
+List.h - List header file
+Graph.c - Graph using Lists, contains DFS
+Graph.h - Graph header file
+GraphTest.c - test client for Graph.c
+FindComponents.c - client for Graph.c
+Makefile - compiles code
+README - this file

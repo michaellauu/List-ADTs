@@ -1,0 +1,11 @@
+// Michael Lau
+// mlau10
+// CMPS 101 - PA3
+
+List.java - Double Linked List ADT with cursor
+ListTest.java - tests ADT
+Matrix.java - array of Lists that hold the matrix rows
+MatrixTest.java - tests Matrix
+Sparse.java - loads in input that represents a matrix and runs commands on the matrix
+Makefile - compiles code
+README - this file
